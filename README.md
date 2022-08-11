@@ -1,6 +1,6 @@
 # polybar-bluetooth
 
-Based on [polybar/polybar-scripts/system-bluetooth-bluetoothctl](https://github.com/polybar/polybar-scripts/blob/master/polybar-scripts/system-bluetooth-bluetoothctl) it broke and this is my attempt to fix it
+Based on [polybar/polybar-scripts/system-bluetooth-bluetoothctl](https://github.com/polybar/polybar-scripts/blob/master/polybar-scripts/system-bluetooth-bluetoothctl) which broke and this is my fix
 
 ## dependencies
 
