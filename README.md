@@ -1,13 +1,13 @@
-## polybar-bluetooth
+# polybar-bluetooth
 
-Based on [polybar/polybar-scripts/system-bluetooth-bluetoothctl](https://github.com/polybar/polybar-scripts/blob/master/polybar-scripts/system-bluetooth-bluetoothctl) it broke and this is my attempt to fix it_
+Based on [polybar/polybar-scripts/system-bluetooth-bluetoothctl](https://github.com/polybar/polybar-scripts/blob/master/polybar-scripts/system-bluetooth-bluetoothctl) it broke and this is my attempt to fix it
 
-# dependencies
+## dependencies
 
 - bluetoothctl
 - nerdfonts
 
-# module
+## module
 ```
 [module/bt]
 type = custom/script
