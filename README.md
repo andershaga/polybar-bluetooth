@@ -20,7 +20,7 @@ Based on [polybar/polybar-scripts/system-bluetooth-bluetoothctl](https://github.
 - nerdfonts
 
 ## module
-```shell
+```EditorConfig
 [module/bt]
 type = custom/script
 exec = ~/scripts/polybar-bluetooth.sh
